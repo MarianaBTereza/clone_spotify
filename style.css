@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box ;
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -11,9 +11,7 @@ body {
 #navbar {
     display: flex;
     background-color: rgba(0, 0, 0, 0, 6);
-    justify-content: center; 
+    justify-content: center;
 }
 
-#navbar .navbar-container {
-    
-}
+#navbar .navbar-container {}
